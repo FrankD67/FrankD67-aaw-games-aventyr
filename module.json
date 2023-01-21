@@ -8,6 +8,7 @@
    "compatibleCoreVersion": "10",
    "protected": false, 
 
+   "URL": "https://github.com/FrankD67/FrankD67-aaw-games-aventyr",
    "manifest": "https://raw.githubusercontent.com/FrankD67/FrankD67-aaw-games-aventyr/main/module.json",
    "download": "https://github.com/FrankD67/FrankD67-aaw-games-aventyr/archive/main.zip",
 
