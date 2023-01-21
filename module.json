@@ -21,6 +21,7 @@
         {
       "name": "aaw-aventyr-campaigh",
       "label": "AAW Aventyr Campaign",
+      "system": "dnd5e",
       "path": "packs/aaw-aventyr-campaigh.db",
       "entity": "Adventure",
       "module": "Aventyr Campaign Setting"
