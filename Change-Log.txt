@@ -1,3 +1,9 @@
+V1.0.3
+World Map added
+Klavek Kingdom  added
+NaeraCull added
+Obor added
+Picollo added
 V1.0.2
 Races of Aventyr added
 d100 Forest Finds
