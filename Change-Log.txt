@@ -1,3 +1,13 @@
+V1.0.4
+Morsain now linking correctly on world map
+Pradjna Added
+Rybalka Added
+Scorched Lands added
+Silent Forest added
+Timaeus added
+Vast Swamp added
+Vikmordere added
+Yerek Steppes added
 V1.0.3
 World Map added
 Klavek Kingdom  added
