@@ -3,7 +3,7 @@
    "title": "AAW Aventyr Campaign Setting",   
    "description": "Welcome to Aventyr Adventures! A system agnostic series (with some D&D 5e) designed for GMs and players to enjoy the exploration of new lands together. These blog entries are 100% free for you to use along with existing Aventyr Campaign Setting content.\n\nExplore and discover Aventyr, an exciting world where nature struggles to survive under the onslaught of so-called civilization, primal warriors summon powerful totems, and ancient secrets in the sky, sea, and depths of the earth wait to be discovered!",   
    "author": "AAW Games, Joe Tuccillo (Erogroth),  Frank Darnell (DeeFran)",
-   "version": "1.0.7",
+   "version": "1.0.8",
    "minimumCoreVersion": "0.7.2",
    "compatibleCoreVersion": "10",
    "protected": false, 
